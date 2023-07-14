@@ -8,9 +8,7 @@ Penn_It is a notes app designed for Android, built using Kotlin. It provides a s
 
 - Create, edit, and delete notes with ease.
 - Categorize notes with customizable tags.
-- Search for specific notes by keyword.
 - Organize notes using a clean and intuitive user interface.
-- Secure your notes with password protection.
 
 ## Prerequisites
 
@@ -38,10 +36,6 @@ Once the app is installed and running:
 3. Save the note, and it will be added to the notes list.
 
 4. Edit or delete a note by tapping on it in the notes list.
-
-5. Use the search bar to find specific notes by keyword.
-
-6. Set a password to secure your notes from unauthorized access.
 
 ## Contributing
 
